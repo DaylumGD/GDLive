@@ -1,0 +1,9 @@
+{
+    "gd-settings": {
+        "directory-appdata": "C:/Users/danre/AppData/Local/GeometryDash",
+        "directory-main": "C:/Program Files (x86)/Steam/steamapps/common/Geometry Dash",
+        "local-levels": "CCLocalLevels.dat"
+    },
+
+    "texture-res": "uhd"
+}

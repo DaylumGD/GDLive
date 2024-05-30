@@ -1,0 +1,20 @@
+{
+    "object-ui": {
+        "colums": 7,
+        "row": 2
+    },
+
+    "ui-menu": {
+        "link-controlls": false,
+        "sync-guidelines": false,
+        "show-portal-boundries": false
+        
+    },
+
+    "direct-editor-settings": {
+        "preview-animations": false,
+        "preview-mode": true,
+        "preview-saws": true,
+        "view-mode": false
+    }
+}
